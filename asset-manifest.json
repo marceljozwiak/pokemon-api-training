@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pokemon-api-training/static/css/main.a31db21a.css",
+    "main.js": "/pokemon-api-training/static/js/main.94794ea4.js",
+    "index.html": "/pokemon-api-training/index.html",
+    "main.a31db21a.css.map": "/pokemon-api-training/static/css/main.a31db21a.css.map",
+    "main.94794ea4.js.map": "/pokemon-api-training/static/js/main.94794ea4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a31db21a.css",
+    "static/js/main.94794ea4.js"
+  ]
+}
